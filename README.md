@@ -1,2 +1,0 @@
-# pispace.cz
-PiSpace website
